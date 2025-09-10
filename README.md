@@ -12,10 +12,10 @@
 
   ## Screenshots
 
-  ![img](https://ibb.co/40SxtQW)
-  ![img](https://ibb.co/7JJc9W7d)
-  ![img](https://ibb.co/9kkx8tsT)
-  ![img](https://ibb.co/0yCDbHPy)
+  ![alt text](https://ibb.co/40SxtQW)       
+  ![alt text](https://ibb.co/7JJc9W7d)
+  ![alt text](https://ibb.co/9kkx8tsT)
+  ![alt text](https://ibb.co/0yCDbHPy)
 
   ## Follow the steps below to set up and install the project dependencies.
 
